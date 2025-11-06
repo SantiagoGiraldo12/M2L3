@@ -1,0 +1,45 @@
+body {
+    
+    background-color: rgb(16, 130, 41);
+    
+}
+h1 {
+    font-size: 36px; /* Tamaño grande para los títulos principales */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0); /* Color azul muy oscuro para el texto */
+    
+}
+.sub1 {
+    font-size: 24px; /* Tamaño de texto intermedio */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(255, 255, 255); /* Texto en color verde amarillento */
+}
+.sub2 {
+    font-size: 24px; /* Tamaño un poco más pequeño que el anterior */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(255, 2, 2); /* Texto en color violeta */
+}
+li{
+    font-size: 24px; /* Tamaño de texto intermedio */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(255, 255, 255); /* Texto en color verde amarillento */
+}
+p{
+    font-size: 24px; /* Tamaño de texto intermedio */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(255, 255, 255); /* Texto en color verde amarillento */
+}
+img{
+    width: 400px;
+    border-radius: 15px;
+}
+a{
+    display: inline-block;
+    color: rgb(13, 202, 180);
+    width: 200px;
+    height: 40px;
+    background-color: aqua;
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 12px;
+}
